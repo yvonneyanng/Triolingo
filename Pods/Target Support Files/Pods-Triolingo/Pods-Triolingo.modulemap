@@ -1,0 +1,6 @@
+framework module Pods_Triolingo {
+  umbrella header "Pods-Triolingo-umbrella.h"
+
+  export *
+  module * { export * }
+}

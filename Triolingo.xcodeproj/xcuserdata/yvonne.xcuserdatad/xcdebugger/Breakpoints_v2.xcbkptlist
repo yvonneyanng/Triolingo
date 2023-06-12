@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "04814EA7-D1DB-469C-8CA1-682998A3E283"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2C8F1DC1-6665-4CEE-8CED-B035B4FB7758"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Triolingo/SettingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "SettingViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2C8F1DC1-6665-4CEE-8CED-B035B4FB7758 - b6209c3f3aa535af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Triolingo.SettingViewController.languagePickerView.getter : __C.UIPickerView"
+                  moduleName = "Triolingo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yvonne/Dev/App/Triolingo/Triolingo/SettingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "2C8F1DC1-6665-4CEE-8CED-B035B4FB7758 - 7088ff313b9755a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Triolingo.SettingViewController.languagePickerView.setter : __C.UIPickerView"
+                  moduleName = "Triolingo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yvonne/Dev/App/Triolingo/Triolingo/SettingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "2C8F1DC1-6665-4CEE-8CED-B035B4FB7758 - 4b22305e14fb9db2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Triolingo.SettingViewController.languagePickerView.modify : __C.UIPickerView"
+                  moduleName = "Triolingo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yvonne/Dev/App/Triolingo/Triolingo/SettingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "2C8F1DC1-6665-4CEE-8CED-B035B4FB7758 - 1c7a1b7d2cca3726"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Triolingo.SettingViewController.languagePickerView.modify : __C.UIPickerView with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Triolingo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yvonne/Dev/App/Triolingo/Triolingo/SettingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "2C8F1DC1-6665-4CEE-8CED-B035B4FB7758 - bd50f103652860a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Triolingo.SettingViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Triolingo.SettingViewController"
+                  moduleName = "Triolingo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yvonne/Dev/App/Triolingo/Triolingo/SettingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1740">
+               </Location>
+               <Location
+                  uuid = "2C8F1DC1-6665-4CEE-8CED-B035B4FB7758 - 48a84c194b1de1dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Triolingo.SettingViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Triolingo.SettingViewController&gt;"
+                  moduleName = "Triolingo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yvonne/Dev/App/Triolingo/Triolingo/SettingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1716">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
